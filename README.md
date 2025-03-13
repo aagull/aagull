@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Ahmet G</h1>
 <h3 align="center">✅ A "Computer Engineering Student | Software Developer" from Türkiye</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aagull&label=Profile%20views&color=0e75b6&style=flat" alt="aagull" /> </p>
+
 
 - 📫 How to reach me **ahmetgl_2000@outlook.com**
 
